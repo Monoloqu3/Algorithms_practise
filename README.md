@@ -21,7 +21,7 @@ Each algorithm implementation is in a separate folder along with the correspondi
 
 ## Description/Usage
 
-[**Fib**](https://github.com/Monoloqu3/algorithms_wsb/tree/0f7ebe47c72125a27ba8b5b2a504b3acfe86c634/fib)
+[**Fib**](https://github.com/Monoloqu3/Algorithms_practise/tree/main/fib)
 
 ***Description***:
 
@@ -36,7 +36,7 @@ forms the first ten entries of the fibonacci series.
 fib(4) # returns 3
 ```
 
-[**Matrix**](https://github.com/Monoloqu3/algorithms_wsb/tree/0f7ebe47c72125a27ba8b5b2a504b3acfe86c634/matrix)
+[**Matrix**](https://github.com/Monoloqu3/Algorithms_practise/tree/main/matrix)
 
 ***Description***:
 
@@ -63,7 +63,7 @@ matrix(4)
 # [10, 9, 8, 7]]
 ```
 
-[**Queue**](https://github.com/Monoloqu3/algorithms_wsb/tree/0f7ebe47c72125a27ba8b5b2a504b3acfe86c634/queue)
+[**Queue**](https://github.com/Monoloqu3/Algorithms_practise/tree/main/queue)
 
 ***Description***:
 
@@ -78,7 +78,7 @@ q.add(1)
 q.remove() # returns 1
 ```
 
-[**Stack**](https://github.com/Monoloqu3/algorithms_wsb/tree/0f7ebe47c72125a27ba8b5b2a504b3acfe86c634/stack)
+[**Stack**](https://github.com/Monoloqu3/Algorithms_practise/tree/main/stack)
 
 ***Description***:
 
@@ -95,7 +95,7 @@ s.push(2)
 s.pop() # returns 2
 s.pop() # returns 1
 ```
-[**Vowels**](https://github.com/Monoloqu3/algorithms_wsb/tree/0f7ebe47c72125a27ba8b5b2a504b3acfe86c634/vowels)
+[**Vowels**](https://github.com/Monoloqu3/Algorithms_practise/tree/main/vowels)
 
 ***Description***:
 
